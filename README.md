@@ -1,11 +1,43 @@
-# Hi I'm Nikhila! thanks for stopping by 👋
+  # Hi, I'm Nikhila 👋
 
+🌍 Building AI systems that create real-world impact in health, climate, and sustainability  
 
- - 🌍 Turning AI into real‑world impact in health and sustainability
- - 🎓 AI master’s @ University of Georgia
- - 🧭 Built AI systems across geography, medical data, forestry, and animal health
+🎓 M.S. in Artificial Intelligence @ University of Georgia  
 
-Connect with me
+🧠 Focus areas: Machine Learning, Computer Vision, Generative AI, and Large-Scale AI Systems  
 
-  📊 LinkedIn: https://www.linkedin.com/in/nikhila-raj-nitta-527614211/
+📊 Experience building AI models across medical data, climate science, forestry systems, and intelligent automation.
+
+---
+
+## 🔬 Current Interests
+- Climate & Sustainability AI
+- Computer Vision Systems
+- Multimodal & Generative AI
+- Scalable Machine Learning Pipelines
+
+---
+
+## 🚀 Featured Projects
+- 🌧 **Rain Removal using Deep Learning** – CNN-based image restoration model  
+- 🌍 **Climate Change Impact on Food Production** – ML forecasting using XGBoost and neural networks  
+- 🚦 **Intelligent Traffic Optimization** – LSTM + Reinforcement Learning traffic control system  
+- 🧠 **Brain Signal Analysis** – ML models for neuroimaging data (fNIRS / fMRI)
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, C++, Java, SQL, R 
+
+**ML / AI:** PyTorch, TensorFlow, Scikit-learn, XGBoost  
+
+**Computer Vision:** OpenCV, CNNs, Image Processing  
+
+**Tools:** Linux, Git, Jupyter, Google Colab
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/nikhila-raj-nitta-527614211/  
+📧 Email: nikhila.nitta99@gmail.com
 
