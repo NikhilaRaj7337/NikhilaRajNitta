@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/nikhila-raj-nitta-527614211/
 
 <br>
 <br>
-## 🔬 Research & Projects
+ 🔬 Research & Projects
 
 | Year | Project | Tech | Links |
 |-----|------|------|------|
